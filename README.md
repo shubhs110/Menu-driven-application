@@ -1,1 +1,2 @@
 # demo
+ allow demo repository
